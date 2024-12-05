@@ -8,12 +8,8 @@ Soliciting me and locking me out... deceptive pattern deserve deceptive response
 
 No assumption is made over our victim, I bypass anywhere...
 
-<<<<<<< HEAD
 ![try](./img/bypass.www.scientificamerican.com.png)
 
 ![success](./img/successful.bypass.www.scientificamerican.com.png)
-=======
-![yeah](./img/bypass.www.scientificamerican.com.png)
->>>>>>> d21adef646a96494e01d2a67ad5713a8702edec6
 
 ###### 75293e64@tutanota.com
