@@ -22,17 +22,21 @@ ip route add **REMOTE_HOST_IP** via  X.X.X.1 dev eth0 onlink
 ip route del default
 ```
 
-You can **disconnect** and **reconnect**... and no other fucking packet enter routing table
+You can **disconnect** and **reconnect** use **DNS** from **inside**... and no other fucking packet enter the routing table
 
-Only your route goes through... **BUT** It's gonna fucking work 5 min, before broken pipe...
+Only your route goes through... **BUT** It's gonna **fucking** work **5** min, before broken pipe...
+
+For no reason, absolutly no reason... the route table got all the need to **work**.
 
 To me **they** just cut the feature for some **reason**... And it's sad **discovery**.
 
 So let's hack in the network sources... Cuz I don't think these guy gonna make it for US...
 
-Since it's obviously disabled/forbiden silently at there round table. :)
+Since it's **obviously** **disabled/forbiden** **silently** at their round table. :)
 
-Do I need them to modify the routing handling? absolutly not. :D
+Do I need them to **modify** the **routing** handling? **absolutly** NOT. :D
+
+Are they taking ppl for dumbasses? I think that yeah they are obviously. But I exists no worries. :)
 
 To be continued.
 
