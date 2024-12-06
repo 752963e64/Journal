@@ -16,7 +16,7 @@ THis came back at 5h(am) while I was trying to sleep, I was scared to forget it 
 # ip route del default
 ```
 
-Now look to your firewall :D
+Now look to your firewall, 0 0 means no paquet these bitches gets "NO ROUTE TO HOST" damn it. :D
 
 ```sh
 # iptables -t filter -nvL
