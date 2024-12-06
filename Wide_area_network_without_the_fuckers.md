@@ -10,8 +10,10 @@ I'm not learning... I redo what I did longtime ago... hadn't NOTED shit... :D
 
 THis came back at 5h(am) while I was trying to sleep, I was scared to forget it when I wake... hell it didn't. :D
 
+### FOR SMART SERVER WITH OPERATOR's STATE OF THE ART SECURITY!
+
 ```sh
-# ip route add <GATEWAY> dev eth0
+# ip route add <GATEWAY> dev <IFACE>
 # ip route add <RHOST> via <GATEWAY> dev <IFACE>  metric 1 onlink
 # ip route del default
 ```
@@ -25,6 +27,20 @@ Now look to your firewall, 0 0 means no paquet these bitches gets "NO ROUTE TO H
 ```
 
 Say goodbye to all your useless filtering... wire up to friend and forget the fuckers...
+
+### FOR DESKTOP
+
+- Close the path bidirectionaly to WAN/DMZ, launch risky stuffs... trick it, make it charcoal :)
+
+```sh
+# ip route add blackhole default
+```
+
+- Open back to distributed madness :D
+
+```
+# ip route del default
+```
 
 Enjoy computing quietly and safely.
 
