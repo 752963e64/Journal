@@ -1,6 +1,6 @@
 # Can you send me some more? humid eyes talking. :D
 
-When beggar comes around... To fight his own culture with with transexual united countries...
+When beggar comes around... To fight his own culture with transexual united countries...
 
 ![beggar](img/trump_zelinsky.jpg)
 
