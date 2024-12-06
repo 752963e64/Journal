@@ -1,4 +1,6 @@
-# Do not restart your service like dumbasses...
+# Using common sense while reloading application
+
+Do not restart your service like dumbasses...
 
 "Something slipped into our application while it was reloading..."
 
