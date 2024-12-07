@@ -8,9 +8,9 @@ How much pass you need to preform one simple thing?
 
 - Third thing... the best one... When we got product named surface... and being unable to handle editing surface of your own code editor
 
-This raising serious concern... To me this editor is made by junior developpers with half the skill to make it learning on their work...
+This raising serious concern... To me this editor is made by junior developpers with half the skill to make it; They live learning on their work...
 
-- Fourth thing... It's harassing me to install useless stuffs that doesn't work how I expecting... (see second thing.)
+- Fourth thing... It harassing me to install useless stuffs that doesn't work how I expecting... (see second thing.)
 
 # The last words
 
