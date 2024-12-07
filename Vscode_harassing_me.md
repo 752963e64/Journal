@@ -6,7 +6,7 @@ How much pass you need to preform one simple thing?
 
 - Second thing... It reads my files assumes strange stuffs... anotates errors where none...
 
-- Third thing... the best one... When we got product named surface... and being unable to handle editing surface of your own code editor
+- Third thing... the best one... When you got product named surface... and being unable to handle editing surface of your own code editor
 
 This raising serious concern... To me this editor is made by junior developpers with half the skill to make it; They live learning on their work...
 
