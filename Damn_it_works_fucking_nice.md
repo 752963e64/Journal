@@ -1,4 +1,8 @@
-# Ubuntu 24.04.1!
+# Damn it works fucking nice 
+
+### Ubuntu 24.04.1!
+
+![OKLM](./img/cool-desktop.png)
 
 I was surprised to find apt repositories on http without the **s** :D
 
