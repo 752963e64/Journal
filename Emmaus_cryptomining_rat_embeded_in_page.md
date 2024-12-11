@@ -18,6 +18,8 @@ I was looking for a job cuz life is hard you know... And I ended on this.
 
 You need a real software designer, engineer :D
 
+Really if such thing happens at this lvl... do you ever "MURUWA"(THINKING KINECT STYLE) what the rest "may" "could" be doing.
+
 ## Feels
 
 Damn it, the world is going mad everywhere...
