@@ -22,6 +22,10 @@ Really if such thing happens at this lvl... do you ever "MURUWA"(THINKING KINECT
 
 119 days running... a great amount of dust particles has evase dropped from personal domestic energy without their consent. :D
 
+Makes around 0.003 XMR between 3-6 days
+
+actual(12/12/2024) hash rate is around 25KH/s constantly.
+
 ## Feels
 
 Damn it, the world is going mad everywhere...
