@@ -20,6 +20,8 @@ You need a real software designer, engineer :D
 
 Really if such thing happens at this lvl... do you ever "MURUWA"(THINKING KINECT STYLE) what the rest "may" "could" be doing.
 
+119 days running... a great amount of dust particles has evase dropped from personal domestic energy without their consent. :D
+
 ## Feels
 
 Damn it, the world is going mad everywhere...
