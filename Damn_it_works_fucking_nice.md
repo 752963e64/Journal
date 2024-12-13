@@ -20,6 +20,23 @@ WaylandEnable=false
 
 on X everything works... I can have 3 GL window opened at same time! doesn't flicker...
 
+## first update... everything went crazy nasty...
+
+- had my home in the desktop dir... did use symlinks to a device so I don't need to move stuffs...
+```
+Desktop => to somewhere
+Documents => ""
+Music => ""
+```
+after a reboot the user home dir was into desktop alike desktop was /home.
+
+- GDM is sensibly broken... must avoid login... it's **still** not a mastered technology... :D
+
+after update and removing a little from what I dont need... GDM is having a sad grey unresponsive interface...
+```
+automaticlogin=YEEYES :D
+```
+
 ## Assumptions
 
 esthetically it's beautifuly engineered. The only thing disturbing me is the frame size(when there is nothing interesting to be placed in)...
