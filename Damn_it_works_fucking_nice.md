@@ -37,6 +37,12 @@ after update and removing a little from what I dont need... GDM is having a sad 
 automaticlogin=YEEYES :D
 ```
 
+- a new feature has been introduced in the dock! Thought it was starting to lock on focus... (it wasn't folding anymore...) :D
+
+GTK has tooltip It's noice if you introduce a one time tooltip over feature handle... avoid me stressing an hour cuz the little notice down was assumed from previous behavior... :D
+
+let's assume it has the shape a contract with the little notice bottom folding selection... why that? no one knows :D  
+
 ## Assumptions
 
 esthetically it's beautifuly engineered. The only thing disturbing me is the frame size(when there is nothing interesting to be placed in)...
