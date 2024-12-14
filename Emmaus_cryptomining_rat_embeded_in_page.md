@@ -26,6 +26,10 @@ Makes around 0.003 XMR between 3-6 days
 
 actual(12/12/2024) hash rate is around 25KH/s constantly.
 
+Mail was sent days ago when I discovered the grind which is technically taking possession of my computer without my consent to perform things that I pay in form of electricity bills
+
+no response... I'll call the director tomorrow! to see what they think about it... just to impregnate the juice... :D
+
 ## Feels
 
 Damn it, the world is going mad everywhere...
