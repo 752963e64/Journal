@@ -41,7 +41,9 @@ automaticlogin=YEEYES :D
 
 GTK has tooltip It's noice if you introduce a one time tooltip over feature handle... avoid me stressing an hour cuz the little notice down was assumed from previous behavior... :D
 
-let's assume it has the shape a contract with the little notice bottom folding selection... why that? no one knows :D  
+let's assume it has the shape a contract with the little notice bottom folding selection... why that? no one knows :D
+
+When unmounting disk from dock... close the file window if there is, no?
 
 ## Assumptions
 
