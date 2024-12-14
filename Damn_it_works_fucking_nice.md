@@ -49,6 +49,8 @@ When unmounting disk from dock... close the file window if there is, no?
 
 ![1/6thesurface](./img/1-6thesurface.png)
 
+The frame and notebook takes a lot but really a lot of place 1/6 here... :D
+
 ## Assumptions
 
 esthetically it's beautifuly engineered. The only thing disturbing me is the frame size(when there is nothing interesting to be placed in)...
