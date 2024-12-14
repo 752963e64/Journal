@@ -45,6 +45,10 @@ let's assume it has the shape a contract with the little notice bottom folding s
 
 When unmounting disk from dock... close the file window if there is, no?
 
+## GTK for elder :D
+
+![1/6thesurface](./img/1-6thesurface.png)
+
 ## Assumptions
 
 esthetically it's beautifuly engineered. The only thing disturbing me is the frame size(when there is nothing interesting to be placed in)...
