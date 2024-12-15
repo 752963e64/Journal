@@ -75,6 +75,8 @@ no useless daemons... firefox from the high house! how much time it's gonna stay
 
 DAMN FUCKING REINSTALL 2 TIMES AN OS A DAY... while you DIDn't DO ANYTHING WRONG... REALLY? LET ME RECORD THAT! :D
 
+# THIS FUCKIN JOKE WERE TIME CONSUMING.
+
 ## Assumptions
 
 esthetically it's beautifuly engineered. The only thing disturbing me is the frame size(when there is nothing interesting to be placed in)...
@@ -84,5 +86,9 @@ esthetically it's beautifuly engineered. The only thing disturbing me is the fra
 Fucking nice, everything working smooth... I'm having erections.
 
 I'm still having erections all the time.
+
+## no more erection THe wipe happened :D
+
+AM wondering who are your clients... even the free security plug is very strange... :D
 
 ###### 752963e64
