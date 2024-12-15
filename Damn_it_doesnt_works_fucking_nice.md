@@ -1,4 +1,4 @@
-# Damn it works fucking nice 
+# Damn it DOESNT works fucking nice 
 
 ### Ubuntu 24.04.1!
 
