@@ -69,6 +69,12 @@ Maybe they prefer pedobear profiles...  :D
 
 This is impossible I break stuffs... I grind system internal for years... what's happening is pure distributed sabotage! which tell long about the kind operating... :D
 
+## REMOVED 50% of it rebooted :)
+
+no useless daemons... firefox from the high house! how much time it's gonna stay like this... no idea it's a matter of how much sweet clowns puted in. :D
+
+DAMN FUCKING REINSTALL 2 TIMES AN OS A DAY... while you DIDn't DO ANYTHING WRONG... REALLY? LET ME RECORD THAT! :D
+
 ## Assumptions
 
 esthetically it's beautifuly engineered. The only thing disturbing me is the frame size(when there is nothing interesting to be placed in)...
