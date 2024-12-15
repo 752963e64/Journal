@@ -65,6 +65,10 @@ I HAVE NO FUCKING IDEA, IT'S STRANGE ANYWAY... let's see how much time this new 
 
 thrown snapd and all the branding in trash... installed legit packages from their respective author.
 
+Maybe they prefer pedobear profiles...  :D
+
+This is impossible I break stuffs... I grind system internal for years... what's happening is pure distributed sabotage! which tell long about the kind operating... :D
+
 ## Assumptions
 
 esthetically it's beautifuly engineered. The only thing disturbing me is the frame size(when there is nothing interesting to be placed in)...
