@@ -4,6 +4,8 @@ EVERYTHING WAS MAGNIFICIENT AND THEN, BLACK SCREEN AT LOGIN... FIREFOX UNRESPONS
 
 THIS IS A FUCKING JOKE NO ONE WANN EXPERIENCE IN THE LIFE A LAMBDA... THEY NEED PPL in need support ON THEIR FORUMS OR WHAT?! :D
 
+If you were providing system supposedly, let's pretend... the quality of your work is into what you providing, right? I'm sure u get the mean ;)
+
 ### Ubuntu 24.04.1!
 
 ![OKLM](./img/cool-desktop.png)
