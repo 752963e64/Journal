@@ -51,6 +51,20 @@ When unmounting disk from dock... close the file window if there is, no?
 
 The frame and notebook takes a lot but really a lot of place 1/6 here... :D
 
+## This OS is pure sabotage :D
+
+Well after 2 times the os stop loging into session after reboot... when I literaly not performed anything...
+
+This starting to be super strange... the investigation show that it's not made in user dir... it's happening at the rootfs LVL... modification are made by internal softwares and the os starts being so fucking messy you wanna throw kick into screen :DDDDD
+
+maybe they need ppl to make an use from their forums... I'm not the good candidate... :D
+
+maybe I'm blacklisted and I'm set to have a crappy experience with their tools?
+
+I HAVE NO FUCKING IDEA, IT'S STRANGE ANYWAY... let's see how much time this new hacky config remain in time... :D
+
+thrown snapd and all the branding in trash... installed legit packages from their respective author.
+
 ## Assumptions
 
 esthetically it's beautifuly engineered. The only thing disturbing me is the frame size(when there is nothing interesting to be placed in)...
