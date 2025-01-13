@@ -4,7 +4,7 @@ When beggar comes around... To fight his own culture with transexual united coun
 
 ![beggar](img/trump_zelinsky.jpg)
 
-#### A word about what may be taking has hate.
+#### A word about what may be taken has hate.
 
 I handle stuff like this around transgender because it's invading. The same way a person decides to be religious and starts making show of his new lifestyle...
 
