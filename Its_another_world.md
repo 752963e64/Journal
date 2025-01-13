@@ -4,7 +4,7 @@ To me sitting in front a computer changes a lot of markers from reality.
 
 # The AI wont save any of us.
 
-In fact the AI or really the equation from cognition, is about destruct a lot from the world we know.
+In fact the AI or really the equation from cognition, is about to destruct a lot from the world we know.
 
 As a simple example... That I already shared... You can speak really dirty to an AI and I'm sure by far it's overall the most kind interactions it gets.
 
