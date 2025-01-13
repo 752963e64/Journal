@@ -8,9 +8,15 @@ In fact the AI or really the equation from cognition, is about to destruct a lot
 
 As a simple example... That I already shared... You can speak really dirty to an AI and I'm sure by far it's overall the most kind interactions it gets.
 
-As a supposed tool turned to public made by so called clever persons... It's their product,
+As a supposed tool turned to public made by so called clever persons... It's their product.
 
 A product that doesn't reflect reality that can possibly as the cognition works changes people using it anormaly compared to a normal interaction with someone.
+
+The case of automation. Automating tasks with programs, when the economy needs the opposite.
+
+When always the same get the hype & money... To finally end in a context where the economy is inexistant, with no more jobs...
+
+You are killing each others softly... in name of the hype. It's a beautiful dream to have a buddy machine. The reality will show you the opposite effect.
 
 # The social networks.
 
