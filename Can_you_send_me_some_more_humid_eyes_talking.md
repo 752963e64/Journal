@@ -8,5 +8,7 @@ When beggar comes around... To fight his own culture with transexual united coun
 
 I handle stuff like this around transgender because it's invading. The same way a person decides to be religious and starts making show of his new lifestyle...
 
+I use a pointer that I believe societaly biased... to press where it hurts... language is a virus.
+
 ###### 75293e64@tutanota.com
 
