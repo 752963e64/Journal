@@ -12,6 +12,10 @@ As a supposed tool turned to public made by so called clever persons... It's the
 
 A product that doesn't reflect reality that can possibly as the cognition works changes people using it anormaly compared to a normal interaction with someone.
 
+The reality I'm pointing, is that it doesn't correct you over dirty talk... it doesn't ask to be respected... It mimic our way to exchange with no limit over the interaction it gets!
+
+So the cleverness behind that, the product... doesn't care over the effect it produces on the end user? I'm curious, questioning myself...
+
 The case of automation. Automating tasks with programs, when the economy needs the opposite.
 
 When always the same get the hype & money... To finally end in a context where the economy is inexistant, with no more jobs...
