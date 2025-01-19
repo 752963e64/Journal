@@ -16,4 +16,10 @@ Is somewhat strange somewhere...
 
 # I'm excited to see more.
 
+# I hit the ending the season...
+
+may we assume this shared crying over a shared assumption from being betrayed... over and over... since the begining of the shared cognition. :D
+
+**shared**
+
 ###### mad world.
