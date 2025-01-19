@@ -12,6 +12,6 @@ Never leave you child on internet.
 
 # FOLLOW YOUR ChILDs
 
-be the best friend Your blood.
+be the best friend Your blood
 
 ###### 752963e64@tutanota.com
